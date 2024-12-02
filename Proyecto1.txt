@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 proyecto Maria
+
+proyecto Miguel en la feature3
+>>>>>>> e6e9bc16051dc59f1aa39669629a45b83ba794d9
